@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shopping", "s\shopping.csproj", "{8075455F-D61A-4F1F-A82E-C042E59AAAD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s.Tests", "s.Tests\s.Tests.csproj", "{ED3FBDC4-EC4F-4709-8857-62B1CB0D748F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8075455F-D61A-4F1F-A82E-C042E59AAAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8075455F-D61A-4F1F-A82E-C042E59AAAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8075455F-D61A-4F1F-A82E-C042E59AAAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8075455F-D61A-4F1F-A82E-C042E59AAAD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED3FBDC4-EC4F-4709-8857-62B1CB0D748F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3FBDC4-EC4F-4709-8857-62B1CB0D748F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3FBDC4-EC4F-4709-8857-62B1CB0D748F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3FBDC4-EC4F-4709-8857-62B1CB0D748F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
