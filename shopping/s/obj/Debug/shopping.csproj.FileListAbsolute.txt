@@ -1,5 +1,3 @@
-/Users/apple/project/HHMarket/shopping/s/obj/Debug/shopping.csprojAssemblyReference.cache
-/Users/apple/project/HHMarket/shopping/s/obj/Debug/shopping.csproj.CoreCompileInputs.cache
 /Users/apple/project/HHMarket/shopping/s/bin/s.dll
 /Users/apple/project/HHMarket/shopping/s/bin/s.pdb
 /Users/apple/project/HHMarket/shopping/s/bin/Microsoft.Web.Infrastructure.dll
@@ -23,6 +21,7 @@
 /Users/apple/project/HHMarket/shopping/s/bin/System.Web.Http.xml
 /Users/apple/project/HHMarket/shopping/s/bin/System.Web.Http.WebHost.xml
 /Users/apple/project/HHMarket/shopping/s/bin/Newtonsoft.Json.xml
+/Users/apple/project/HHMarket/shopping/s/obj/Debug/shopping.csproj.CoreCompileInputs.cache
 /Users/apple/project/HHMarket/shopping/s/obj/Debug/shopping.csproj.CopyComplete
 /Users/apple/project/HHMarket/shopping/s/obj/Debug/s.dll
 /Users/apple/project/HHMarket/shopping/s/obj/Debug/s.pdb
